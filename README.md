@@ -1,7 +1,9 @@
 # 👨‍💻 Leonardo Previato
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
+
 🚀 Focado em me tornar **Engenheiro de Software**
+
 📚 Atualmente desenvolvendo projetos e aprimorando minhas habilidades em programação.
 
 ---

@@ -8,7 +8,7 @@
 
 ---
 
-## 🧠 Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
@@ -17,13 +17,13 @@
 
 ---
 
-## 📂 Principais Projetos
+## Principais Projetos
 
-📌 Em breve adicionarei aqui meus principais projetos e aplicações desenvolvidas durante meus estudos.
+- Em breve adicionarei aqui meus principais projetos e aplicações desenvolvidas durante meus estudos.
 
 ---
 
-## 🌐 Conecte-se comigo
+##  Conecte-se comigo
 
-💼 LinkedIn
+ LinkedIn
 https://linkedin.com/in/leonardopreviato

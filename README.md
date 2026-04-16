@@ -1,29 +1,26 @@
 # Leonardo Previato
 
-- Estudante de **Análise e Desenvolvimento de Sistemas**
+**Estudante de ADS | Futuro Engenheiro de Software**
 
-- Focado em me tornar **Engenheiro de Software**
+---
 
-- Atualmente desenvolvendo projetos e aprimorando minhas habilidades em programação.
+## Sobre
+
+- Estudante de Análise e Desenvolvimento de Sistemas na Anhanguera
+- Focado em me tornar Engenheiro de Software
+- Atualmente desenvolvendo projetos e aprimorando minhas habilidades em programação
+- Praticando POO com Python e versionamento com Git
 
 ---
 
 ## Tecnologias e Ferramentas
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## Principais Projetos
+## Contato
 
-- Em breve adicionarei aqui meus principais projetos e aplicações desenvolvidas durante meus estudos.
-
----
-
-##  Conecte-se comigo
-
- LinkedIn
-https://linkedin.com/in/leonardopreviato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leonardopreviato)
